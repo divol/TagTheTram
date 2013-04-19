@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  TagTheTram
+
+  Created by divol on 12/04/13.
+  Copyright (c) 2013 divol. All rights reserved.
+*/
+
+
+"Access Not Available, local data or demo mode"="Accès au serveur de données impossible, des données locales seront utilisées ";
+"Reachable WWAN, Connection Required"="WWAN, Connexion nécessaire, des données locales seront utilisées ";
+"Reachable WiFi, Connection Required"="WiFi, Connexion nécessaire, des données locales seront utilisées ";
+
+"Photo Title"="Titre de la photo";
+"Line: "="Ligne: ";
+"Loading..."="Chargement...";

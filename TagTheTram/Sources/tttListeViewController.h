@@ -8,6 +8,11 @@
 
 #import <UIKit/UIKit.h>
 
-@interface tttFirstViewController : UIViewController
+
+@interface tttListeViewController : UIViewController{
+    
+    IBOutlet UITableView * StationtableView;
+    NSArray *lines;
+}
 
 @end
